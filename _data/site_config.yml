@@ -22,8 +22,8 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  name: Peru
+  adjective: Peruvian
 create_goals:
   previous_next_links: false
   goal_content_heading: ''
@@ -137,10 +137,10 @@ indicator_metadata_form:
   exclude_fields: []
   translated: false
 indicator_tabs:
-  tab_1: ''
-  tab_2: ''
-  tab_3: ''
-  tab_4: ''
+  tab_1: 'chart'
+  tab_2: 'table'
+  tab_3: 'map'
+  tab_4: 'embed'
 languages:
   - en
   - es
